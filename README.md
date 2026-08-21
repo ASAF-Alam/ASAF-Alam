@@ -1,150 +1,461 @@
-# ASAF Alam
+# A. S. A. Ferdous Alam
 
-### PhD Researcher in Economics & Management | Development Economics | Quantitative Economic Analysis | Sustainable Development
+### Academic | Researcher | Senior Lecturer | PhD Researcher
+
+**Economic & Management Sciences · Development Economics · Sustainability · International Business · Strategic Management · HRM · Quantitative Research**
 
 Welcome to my academic and research portfolio.
 
-I am a **PhD Researcher in Economic and Management Sciences** at the **University of Algarve (UALG), Faro, Portugal**. My research interests include **development economics, quantitative economic analysis, sustainable development, tourism seasonality, sustainable human resource management, employee engagement, and SDG 8**.
+I am an academic and researcher with **10+ years of teaching experience and 16 years of research experience**. I am currently pursuing my **second PhD in Economic and Management Sciences** at the **University of Algarve (UALG), Portugal**, following my first PhD in Environment and Development / Development Management from **Universiti Kebangsaan Malaysia (UKM)**.
+
+My academic and research work spans **development economics, sustainability, international business, strategic management, human resource management, tourism, environmental management, and quantitative research**.
 
 ---
 
-## 🎓 Academic Profile
+## 🎓 Current Academic Position
 
-**PhD Researcher – Economic and Management Sciences**
-Faculty of Economics and Management
-University of Algarve (UALG), Faro, Portugal
-**October 2025 – Present**
+### PhD Researcher — Economic & Management Sciences
 
-My current doctoral research focuses on economic and management issues related to sustainable development, with an emphasis on quantitative analysis and evidence-based research.
+**Faculty of Economics and Management, University of Algarve (UALG)**
+Faro, Portugal · **October 2025 – Present**
+
+My current doctoral research focuses on:
+
+> **Digital Innovation, Workforce Fidelization, and Tourism Seasonality in the Algarve**
+
+The research employs a sequential three-study design incorporating:
+
+* Systematic Literature Review
+* Partial Least Squares Structural Equation Modelling (PLS-SEM)
+* Covariance-Based Structural Equation Modelling (CB-SEM)
+
+The theoretical foundations include:
+
+* Technology–Organization–Environment (TOE) Framework
+* Human Capital Theory
+* Resource-Based View
+* Service-Dominant Logic
+
+### Current Research Activities
+
+**Breaking the Wall of Tourism Seasonality**
+SEA-EU Falling Walls Lab, Split, Croatia · July 2026
+
+**Sustainable HRM Practices and Employee Engagement as Drivers of SDG 8**
+3rd Being SEA-EU Conference, University of Gdańsk, Poland · September 2026
+
+**Walking the Talk? Exploring How, When and Why Sustainable HRM Policies and Practices Mitigate Turnover Intentions Differently**
+HRM and Leadership – Navigating the Future of Work (HRMLEAD 2026), Wrocław University of Science and Technology, Poland · May 2026
+
+---
+
+## 🎓 Academic Background
+
+### PhD — Environment and Development / Development Management
+
+**Universiti Kebangsaan Malaysia (UKM)**
+March 2009 – August 2014
+
+**Thesis:**
+*The Impacts of International Migration on Socio-Economic Development in Bangladesh*
+
+Research focus included:
+
+* Sustainable development
+* Human capital migration
+* Governance
+* Economic management in developing economies
+* Econometric time-series analysis
+* Ordinal regression / probit modelling
+* Structural Equation Modelling (SEM)
+
+### Master of Business Administration (MBA)
+
+**International Islamic University Chittagong (IIUC)**
+Major: Marketing & International Business; Human Resource Management
+
+### Bachelor of Business Administration (BBA)
+
+**Islamic University, Kushtia, Bangladesh**
+Major: Management
 
 ---
 
 ## 🔬 Research Interests
 
+My research interests include:
+
+### Economics & Development
+
 * Development Economics
+* International & Development Economics
+* Migration and Remittances
+* Human Capital
+* Economic Development
 * Quantitative Economic Analysis
-* Econometrics
-* Sustainable Development
-* Tourism Economics
-* Tourism Seasonality
-* Sustainable Human Resource Management
+
+### Management & Business
+
+* Strategic Management
+* International Business
+* International Management
+* Human Resource Management
 * Employee Engagement
 * Employee Turnover
-* Sustainable Development Goal 8 (SDG 8)
-* Labour Economics
-* Evidence-Based Policy Analysis
+* Business Sustainability
+
+### Sustainability
+
+* Sustainable Development
+* Sustainability Economics
+* ESG
+* Environmental Management
+* Climate Change
+* Disaster and Ecological Management
+* Sustainable Business
+
+### Tourism
+
+* Tourism Economics
+* Tourism Seasonality
+* Digital Innovation in Tourism
+* Workforce and Tourism Sustainability
 
 ---
 
-## 📚 Current Research & Academic Activities
+## 📊 Research Methods & Analytical Skills
 
-### Breaking the Wall of Tourism Seasonality
+My research experience includes quantitative and multi-method approaches such as:
 
-**SEA-EU Falling Walls Lab**
-Split, Croatia — July 2026
-
-Research exploring tourism seasonality and approaches to addressing its economic and sustainability implications.
-
-### Sustainable HRM Practices and Employee Engagement as Drivers of SDG 8
-
-**3rd Being SEA-EU Conference**
-University of Gdańsk, Poland
-15–17 September 2026
-
-Conference paper accepted for presentation.
-
-### Sustainable HRM and Employee Turnover
-
-**"Walking the Talk? Exploring How, When and Why Sustainable HRM Policies and Practices Mitigate Turnover Intentions Differently"**
-
-Presented at:
-
-**HRM and Leadership – Navigating the Future of Work (HRMLEAD 2026)**
-Wrocław University of Science and Technology
-Wrocław, Poland
-13–14 May 2026
-
----
-
-## 📊 Research Methods & Technical Skills
-
-### Quantitative Research
-
-* Econometric Analysis
-* Statistical Modelling
+* Econometric Time-Series Analysis
 * Regression Analysis
-* Quantitative Data Analysis
+* Probit / Ordinal Regression
+* Structural Equation Modelling (SEM)
+* PLS-SEM
+* CB-SEM
+* Systematic Literature Reviews
+* Quantitative Research Methods
 * Survey Data Analysis
+* Data Collection and Analysis
+* Business Intelligence & Data Analytics
 * Research Design
-* Data Visualization
-* Empirical Research
+* Academic Research and Publication
 
-### Tools & Software
+### Tools
 
 * SPSS
 * Microsoft Excel
 * AMOS
-* E-Views
-
-*This section will be updated as my research portfolio develops.*
+* Quantitative research and statistical analysis tools
 
 ---
 
-## 📁 Research Portfolio
+## 📚 Research & Publication Portfolio
 
-This GitHub profile will progressively include reproducible research projects, analytical code, datasets where publicly shareable, research documentation, statistical analysis, and visualizations.
+According to my academic CV, my research portfolio includes:
 
-### Planned Projects
+* **57 refereed journal articles** published/accepted
+* **50 conference proceedings** published/accepted
+* **6 conference posters/magazine contributions**
+* **4 book chapters**
+* **2 editorial notes**
+* **1 case study**
 
-* **Tourism Seasonality Analysis**
-* **Sustainable HRM and SDG 8**
-* **Sustainable HRM and Employee Turnover**
-* **Development Economics & Quantitative Analysis**
-* **Econometric Research Projects**
-* **Research Data Analysis & Visualization**
+**Total research outputs: 120**
+
+My publications include outputs indexed across **Scopus, Web of Science and other academic indexing systems**.
+
+### Research Metrics
+
+**Google Scholar**
+
+* 2,158 citations
+* h-index: 21
+
+**ResearchGate**
+
+* 1,700 citations
+* h-index: 19
+
+**Scopus**
+
+* 44 publications
+* 1,016 citations
+* h-index: 14
+
+**Web of Science**
+
+* 36 publications
+* 620 citations
+* h-index: 13
+
+*Research metrics are dynamic and may change over time.*
 
 ---
 
-## 🌍 Academic & International Experience
+## 💼 Academic & Professional Experience
 
-My academic activities include research and conference participation across Europe, with academic engagement involving researchers and institutions in Portugal, Croatia and Poland.
+### Senior Lecturer
+
+**School of Business Management, Universiti Utara Malaysia (UUM)**
+May 2023 – October 2025
+
+* Taught undergraduate and postgraduate courses
+* Conducted academic research
+* Published 10+ Scopus/WoS-indexed journal articles during tenure
+* Supervised PhD candidates
+* Participated in academic and school activities
+
+### Senior Lecturer
+
+**School of International Studies, Universiti Utara Malaysia (UUM)**
+November 2015 – April 2023
+
+* Designed and delivered undergraduate and postgraduate courses
+* Taught International Management, International Business, Cross-Cultural Management and Export Management
+* Supervised Master's research candidates
+* Published 30+ Scopus/WoS-indexed journal articles during tenure
+* Contributed to AACSB re-accreditation activities
+
+### Post-Doctoral Researcher
+
+**Faculty of Social Sciences and Humanities, Universiti Kebangsaan Malaysia (UKM)**
+November 2014 – November 2015
+
+Research, publication, mentoring, grant writing and teaching.
+
+### Graduate Research Assistant
+
+**Institute for Environment and Development (LESTARI), UKM**
+April 2009 – October 2014
+
+Research activities, data collection and analysis, literature review, proposal writing, technical support, documentation, presentations, publications and teaching assistance.
+
+### Manager — HR & Administration
+
+**Silkways Group of Companies, Bangladesh**
+June 2005 – March 2009
+
+Experience in HR management, recruitment, employee relations and engagement, training and development, performance management, talent development, strategic planning and administration.
 
 ---
 
-## 📖 Publications & Research
+## 👨‍🏫 Teaching & Supervision
 
-Research outputs, working papers, conference papers and related academic materials will be added to this portfolio as they become publicly available.
+I have taught undergraduate, postgraduate and research-methodology courses including:
+
+* International Management
+* International Business
+* Cross-Cultural Management
+* Research Methodology
+* Multinational Company
+* Export Management
+* International Business Policy
+* Supply Chain Management
+* Marketing Research
+* Strategic Management
+* Principles of Management
+* Business Intelligence & Data Analytics
+
+### Supervision
+
+* PhD research supervision
+* Master's research supervision
+* Undergraduate practicum supervision
+* **5 postgraduate research candidates supervised**
+* **73 undergraduate practicum students supervised**
 
 ---
 
-## 🤝 Academic Collaboration
+## 💰 Research Grants & Projects
 
-I am interested in academic collaboration and research opportunities related to:
+My research experience includes projects involving sustainability, fintech, exchange rates, remittance markets and small and medium-sized enterprises.
+
+Selected projects include:
+
+### Oil Palm Smallholders and Environmental Sustainability of Palm Oil Milling in Sabah
+
+**Role:** Co-researcher
+**Funding:** MYR 1,050,000
+**Period:** 2017–2020
+
+### Oil Palm Smallholders and Environmental Sustainability of Palm Oil Milling in Peninsular Malaysia
+
+**Role:** Co-researcher / Post-doctoral Researcher
+**Funding:** MYR 2,050,000
+**Period:** 2014–2017
+
+### Exploring Business Sustainability in the COVID-19 Era
+
+**Role:** Principal Investigator
+**Funding:** MYR 5,000
+**Year:** 2022
+
+### How Does the Exchange Rate Affect the Remittance Market?
+
+**Role:** Principal Investigator
+**Funding:** MYR 5,000
+**Year:** 2023
+
+### How Does Fintech Adoption Benefit Customers of SNSM?
+
+**Role:** Co-researcher
+**Funding:** MYR 5,000
+**Year:** 2023
+
+---
+
+## 🌍 Academic Leadership & International Engagement
+
+My academic service includes:
+
+* Editorial Board Membership
+* Guest Editorship
+* International Advisory Committee Membership
+* Conference Scientific and Technical Committees
+* Conference Chairing and Moderation
+* Keynote and Presidential Keynote Speaking
+* Research Methodology Workshops
+* Academic Writing Workshops
+* Research Publication and Visibility Workshops
+* Colloquia, symposiums and academic events
+
+I have contributed to academic conferences and research activities across multiple international contexts, including Europe and Asia.
+
+---
+
+## 🎤 Selected Keynote & Workshop Activities
+
+Selected academic engagements include presentations and keynote sessions on:
+
+* Empowering Leadership in the AI-Driven Workplace
+* Integrating Sustainability into Business and Policy
+* Academic Writing Using AI Technology
+* How to Publish: A Guide to Effective Academic Writing
+* Enhancement of Research Visibility in Academia
+* Scopus Paper Publication
+* COVID-19 and Environmental Sustainability
+* Sustainable Poverty Reduction
+* Research Methodology and Academic Publication
+
+---
+
+## 🏆 Awards & Recognition
+
+* **Excellent Service Award**, Universiti Utara Malaysia, 2021
+* **Highest KPI Achievement**, UUM, 2019–2024
+* Recognized among **Top-5 authors for ISI and Scopus-indexed journal publications**, UUM, 2016
+* Served as Presidential and Keynote Speaker at international conferences and workshops
+* Active contributor to international academic scientific and technical committees
+
+---
+
+## 🏅 Professional Certifications & Memberships
+
+**Certified Management & Business Educator (CMBE)**
+Chartered Association of Business Schools
+
+**Fellow — Chartered Management Institute (CMI)**
+
+Additional academic affiliations include:
+
+* Senior International Research Fellow — National Bureau of Economic Research (NBER), Bangladesh
+* Associate Fellow — Center for Sustainability Research and Consultancy (CSRC), Pakistan
+* Member — CONNECTING ASIA Research Network
+
+---
+
+## 🗂️ Research Portfolio on GitHub
+
+This GitHub profile is being developed as a **reproducible academic research portfolio**.
+
+Future repositories will include research-related:
+
+* Data analysis
+* Econometric models
+* Statistical analysis
+* Research methodology
+* Data visualization
+* Literature reviews
+* Conference research
+* Sustainability research
+* Tourism research
+* Development economics projects
+
+### Selected / Planned Research Repositories
+
+📁 **Tourism Seasonality & Digital Innovation**
+Research related to digital innovation, workforce fidelization and tourism seasonality in the Algarve.
+
+📁 **Sustainable HRM & SDG 8**
+Research on sustainable HRM practices, employee engagement and decent work.
+
+📁 **Sustainable HRM & Employee Turnover**
+Research examining sustainable HRM policies, practices and turnover intentions.
+
+📁 **Development Economics**
+Quantitative research related to development, migration, remittances and human capital.
+
+📁 **Econometric Research**
+Examples of quantitative methods, statistical analysis and econometric modelling.
+
+---
+
+## 🤝 Research Collaboration
+
+I am open to academic and research collaboration in areas including:
 
 * Development Economics
-* Sustainable Development
+* Sustainability Economics
 * Tourism Economics
 * Sustainable HRM
-* Labour Economics
-* Quantitative Economic Research
+* International Business
+* Strategic Management
+* Human Resource Management
+* Migration and Remittances
+* Quantitative Research
 * Econometrics
-* SDG-related research
+* ESG and Sustainable Development
 
 ---
 
 ## 🔗 Academic Profiles
 
-* **GitHub:** [ASAF-Alam](https://github.com/ASAF-Alam)
-* **LinkedIn:** *(https://www.linkedin.com/in/a-s-a-ferdous-alam-7065b374/)*
-* **ORCID:** *http://orcid.org/0000-0003-2413-3046*
-* **Google Scholar:** *https://scholar.google.com/citations?hl=en&user=SFbmx2sAAAAJ&view_op=list_works&sortby=pubdate*
+* **LinkedIn:** [A. S. A. Ferdous Alam](https://www.linkedin.com/in/a-s-a-ferdous-alam-7065b374/)
+* **Google Scholar:** *Add profile link*
+* **ORCID:** *Add profile link*
+* **Scopus:** *Add profile link*
+* **Web of Science:** *Add profile link*
+* **ResearchGate:** *Add profile link*
+* **UUM Experts:** *Add profile link*
+* **UUM E-Portfolio:** *Add profile link*
 
 ---
 
 ## 📫 Contact
 
-For academic collaboration, research discussion, or professional enquiries, please connect with me through my academic and professional profiles.
+**A. S. A. Ferdous Alam**
+
+PhD Researcher — Economic & Management Sciences
+Faculty of Economics and Management
+University of Algarve
+Faro, Portugal
+
+📧 **Academic:** [a82968@ualg.pt](mailto:a82968@ualg.pt)
+📧 **Professional:** [rial.ferdous@gmail.com](mailto:rial.ferdous@gmail.com)
 
 ---
 
-*This repository serves as my academic research portfolio and will be continuously updated with new research, projects, publications, and analytical work.*
+### Languages
+
+* Bengali — Native
+* English — Excellent
+* Bahasa Melayu — Professional Working
+* Portuguese — Basic
+* Hindi — Basic
+
+---
+
+> **Academic research | Quantitative analysis | Sustainable development | International business | Management | Evidence-based research**
+
+*This portfolio is continuously being developed and will be updated with research projects, datasets where appropriate, analytical code, publications, conference work and other academic outputs.*
