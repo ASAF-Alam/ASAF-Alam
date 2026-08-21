@@ -81,11 +81,10 @@ Wrocław, Poland
 
 ### Tools & Software
 
-* R
-* Python
-* Stata
 * SPSS
 * Microsoft Excel
+* AMOS
+* E-Views
 
 *This section will be updated as my research portfolio develops.*
 
@@ -136,9 +135,9 @@ I am interested in academic collaboration and research opportunities related to:
 ## 🔗 Academic Profiles
 
 * **GitHub:** [ASAF-Alam](https://github.com/ASAF-Alam)
-* **LinkedIn:** *Add your LinkedIn profile*
-* **ORCID:** *Add your ORCID profile*
-* **Google Scholar:** *Add your Google Scholar profile*
+* **LinkedIn:** *(https://www.linkedin.com/in/a-s-a-ferdous-alam-7065b374/)*
+* **ORCID:** *http://orcid.org/0000-0003-2413-3046*
+* **Google Scholar:** *https://scholar.google.com/citations?hl=en&user=SFbmx2sAAAAJ&view_op=list_works&sortby=pubdate*
 
 ---
 
