@@ -1,14 +1,14 @@
 # A. S. A. Ferdous Alam
 
-### Academic | Researcher | PhD Researcher | Senior Lecturer / Assistant Professor
+### Academic | Researcher | Senior Lecturer / Assistant Professor
 
-**Economic & Management Sciences · Development Economics · Sustainability · International Business · Strategic Management · HRM · Tourism · Quantitative Research**
+**Economic & Management Sciences · Development Management · Sustainability · International Business · Strategic Management · HRM · Tourism · Quantitative Research**
 
 Welcome to my academic portfolio.
 
 I am an academic and researcher with extensive experience in **research, higher education, academic supervision, international collaboration, and scholarly publication**. I am currently pursuing my **second PhD in Economic and Management Sciences** at the **University of Algarve (UALG), Portugal**.
 
-My research interests span **development economics, sustainability, tourism, international business, strategic management, human resource management, environmental management, and quantitative research**.
+My research interests span **development management, sustainability, tourism, international business, strategic management, human resource management, environmental management, and quantitative research**.
 
 ---
 
@@ -16,7 +16,7 @@ My research interests span **development economics, sustainability, tourism, int
 
 ### PhD Researcher — Economic & Management Sciences
 
-**Faculty of Economics and Management, University of Algarve (UALG)**  
+**Faculty of Economics, University of Algarve (UALG)**  
 Faro, Portugal · October 2025 – Present
 
 My current doctoral research focuses on:
