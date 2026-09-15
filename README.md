@@ -262,7 +262,7 @@ I am interested in academic and research collaboration in areas including:
 
 ### Professional & Institutional Profiles
 
-- **[LinkedIn](https://www.linkedin.com/in/a-s-a-ferdous-alam-7065b374/)** — Professional profile
+- **[LinkedIn](https://www.linkedin.com/in/asa-ferdous-alam/)** — Professional profile
 - **[UUM Experts](https://experts.uum.edu.my/researcher_info.aspx?nopkj=5380)** — Institutional research profile
 - **[UUM E-Portfolio](https://eportfolio.uum.edu.my/user/view.php?id=507)** — Academic portfolio
 - **[UNEC AVESIS](https://avesis.unec.edu.az/ferdous.alam)** — Azerbaijan State University of Economics research profile
